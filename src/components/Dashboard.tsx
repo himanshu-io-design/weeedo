@@ -546,7 +546,7 @@ export default function Dashboard({
               </div>
             </Animated>
             <Animated delay={30} className="w-full">
-              <p className="font-['Inter_Display:Regular',sans-serif] leading-[normal] not-italic shrink-0 text-[24px] text-center text-nowrap text-stone-400 tracking-[-0.24px] whitespace-pre">alright folks! let's get back to work</p>
+              <p className="font-['Inter_Display:Regular',sans-serif] leading-[normal] not-italic shrink-0 text-[24px] text-center text-nowrap text-stone-400 tracking-[-0.24px] whitespace-pre">alright guys! let's get back to work</p>
             </Animated>
           </div>
 
